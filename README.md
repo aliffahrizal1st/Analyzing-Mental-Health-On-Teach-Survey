@@ -37,3 +37,11 @@ Hi everyone, and happy international mental health day! And because that day and
    5. Data Cleaning
    6. Final Cleanded Data
    7. Gaining Insights
+4. And there are some insights need to explore
+   1. Age analysis
+   2. Gender analysis
+   3. Demographi analysis
+   4. Are employees aware of the mental health program in their company?
+   5. Is the employer aware of the mental health of its workers?
+   6. Comparison when discussing mental health and physical health in the office environment
+   7. Are there any adverse mental health consequences and would anonymity really help?
