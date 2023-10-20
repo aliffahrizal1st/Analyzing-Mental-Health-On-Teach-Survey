@@ -1,47 +1,60 @@
-# Analyzing-Mental-Health-On-Tech-Survey
+# Analyzing Mental Health in the Tech Industry Survey
 
-Hi everyone, and happy international mental health day! And because that day and as you probably know, I created this project to focus on analyzing the mental health of certain people to tell us what factors make a person feel depressed or need to see a therapist.
-1. In this project I used [dataset](https://www.kaggle.com/osmi/mental-health-in-tech-survey) from Kaggle. And it said "The dataset is from a 2014 survey that measures attitudes towards mental health and frequency of mental health disorders in the tech workplace". I'll attached the file if you need it.
-2. The dataset contains several features such as:
-   - Timestamp
-   - Gender
-   - Country
-   - state: If you live in the United States, which state or territory do you live in?
-   - self_employed: Are you self-employed?
-   - family_history: Do you have a family history of mental illness?
-   - treatment: Have you sought treatment for a mental health condition?
-   - work_interfere: If you have a mental health condition, do you feel that it interferes with your work?
-   - no_employees: How many employees does your company or organization have?
-   - remote_work: Do you work remotely (outside of an office) at least 50% of the time?
-   - tech_company: Is your employer primarily a tech company/organization?
-   - benefits: Does your employer provide mental health benefits?
-   - care_options: Do you know the options for mental health care your employer provides?
-   - wellness_program: Has your employer ever discussed mental health as part of an employee wellness program?
-   - seek_help: Does your employer provide resources to learn more about mental health issues and how to seek help?
-   - anonymity: Is your anonymity protected if you choose to take advantage of mental health or substance abuse treatment resources?
-   - leave: How easy is it for you to take medical leave for a mental health condition?
-   - mentalhealthconsequence: Do you think that discussing a mental health issue with your employer would have negative consequences?
-   - physhealthconsequence: Do you think that discussing a physical health issue with your employer would have negative consequences?
-   - coworkers: Would you be willing to discuss a mental health issue with your coworkers?
-   - supervisor: Would you be willing to discuss a mental health issue with your direct supervisor(s)?
-   - mentalhealthinterview: Would you bring up a mental health issue with a potential employer in an interview?
-   - physhealthinterview: Would you bring up a physical health issue with a potential employer in an interview?
-   - mentalvsphysical: Do you feel that your employer takes mental health as seriously as physical health?
-   - obs_consequence: Have you heard of or observed negative consequences for coworkers with mental health conditions in your workplace?
-   - comments: Any additional notes or comments
-3. In this analysis process, there are 7 steps to be carried out
-   1. Connecting Colaboratory to Google Drive
-   2. Import Packages & libraries
-   3. Import Data
-   4. Initial EDA
-   5. Data Cleaning
-   6. Final Cleanded Data
-   7. Gaining Insights
-4. And there are some insights need to explore
-   1. Age analysis
-   2. Gender analysis
-   3. Demographi analysis
-   4. Are employees aware of the mental health program in their company?
-   5. Is the employer aware of the mental health of its workers?
-   6. Comparison when discussing mental health and physical health in the office environment
-   7. Are there any adverse mental health consequences and would anonymity really help?
+## Introduction
+
+Hello everyone, and happy International Mental Health Day! In celebration of this day, I've created this project to focus on analyzing the mental health of individuals in the tech industry and understand the factors that may lead to feelings of depression or the need for therapy.
+
+I utilized a dataset from Kaggle, which originates from a 2014 survey that gauges attitudes towards mental health and the frequency of mental health disorders within the tech workplace. You can find the dataset attached to this repository for reference.
+
+The dataset is rich in features, including:
+
+- Timestamp
+- Gender
+- Country
+- State (for U.S. residents)
+- Self-employment status
+- Family history of mental illness
+- Seeking treatment for mental health conditions
+- Work interference due to mental health
+- Company size
+- Remote work arrangement
+- Employer's industry (tech or non-tech)
+- Availability of mental health benefits
+- Knowledge of mental health care options
+- Inclusion of mental health in employee wellness programs
+- Access to resources for mental health issues
+- Anonymity protection for seeking help
+- Ease of taking medical leave for mental health reasons
+- Perceptions of discussing mental health with employers
+- Perceptions of discussing physical health with employers
+- Willingness to discuss mental health with coworkers and supervisors
+- Willingness to discuss mental health in interviews
+- Willingness to discuss physical health in interviews
+- Comparison of mental health and physical health importance
+- Awareness of consequences for coworkers with mental health conditions
+- Additional comments and notes
+
+## Analysis Steps
+
+In this analysis, we follow these 7 key steps:
+
+1. **Connecting Colaboratory to Google Drive**: Establishing the project environment.
+2. **Importing Packages & Libraries**: Importing the necessary Python libraries for data analysis.
+3. **Importing Data**: Loading the dataset for analysis.
+4. **Initial Exploratory Data Analysis (EDA)**: Exploring the dataset to understand its structure and content.
+5. **Data Cleaning**: Cleaning the dataset to prepare it for analysis.
+6. **Final Cleaned Data**: The cleaned dataset ready for deeper analysis.
+7. **Gaining Insights**: Extracting meaningful insights from the data.
+
+## Insights to Explore
+
+Throughout the analysis, we'll delve into several key insights:
+1. **Age Analysis**: Understanding the age distribution of survey respondents.
+2. **Gender Analysis**: Analyzing the gender diversity within the tech industry.
+3. **Demographic Analysis**: Exploring the geographic and cultural diversity of survey participants.
+4. **Employee Awareness**: Investigating whether employees are aware of mental health programs in their companies.
+5. **Employer Awareness**: Assessing whether employers are conscious of the mental health of their workforce.
+6. **Comparison of Mental and Physical Health**: Comparing discussions about mental health and physical health in the office environment.
+7. **Mental Health Consequences and Anonymity**: Examining potential adverse consequences related to mental health and the impact of anonymity.
+
+Feel free to explore the analysis, share your thoughts, and let's work together to promote mental health in the tech industry. 😊
